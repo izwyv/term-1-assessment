@@ -1,8 +1,0 @@
-1. How does the time complexity vary for linear search based on the input size?
-2. LinearSearch(array, target):
-    for each element in the array:
-        if element equals target:
-            return index of the element
-    return "Not found"
-
-    The pseudocode is of a linear sarch algorithm is provided above. Modify the linear search algorithm to return all occurences of the target element
